@@ -18,3 +18,7 @@
 .tab button:hover {
   background-color: #ddd;
 }
+
+.tab button.active {
+  background-color: #ccc;
+}
