@@ -14,3 +14,7 @@
   transition: 0.3s;
   font-size: 17px;
 }
+
+.tab button:hover {
+  background-color: #ddd;
+}
